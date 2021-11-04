@@ -1,5 +1,10 @@
 /*
-
+pruebaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaa
+a
+a
+a
  */
 package prueba;
 
@@ -21,7 +26,6 @@ public class Prueba {
         double m=2;
         double n=300;
         double tf=120;
-        double h = (tf/n);
         double h = (tf/n);
         
         //condiciones iniciales 
