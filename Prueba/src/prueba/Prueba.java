@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+
  */
 package prueba;
 
@@ -23,6 +21,7 @@ public class Prueba {
         double m=2;
         double n=300;
         double tf=120;
+        double h = (tf/n);
         double h = (tf/n);
         
         //condiciones iniciales 
